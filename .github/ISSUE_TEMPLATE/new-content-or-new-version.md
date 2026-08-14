@@ -38,6 +38,12 @@ Insert a short one line description. This one will be shown on the VitaDB homepa
 # Downalod Link
 Insert the download link of the homebrew
 
+# Release Link
+Insert a link to the page where the official release is
+
+# Sourcecode Link (Optional)
+Insert a link to the sourcecode of the application
+
 # Data Files Link (Optional)
 Insert data files link of the homebrew
 
