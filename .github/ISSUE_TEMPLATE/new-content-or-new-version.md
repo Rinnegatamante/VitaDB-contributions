@@ -35,7 +35,7 @@ This description MUST NOT include any install/control instructions, should be en
 # Short Description
 Insert a short one line description. This one will be shown on the VitaDB homepage ( https://www.rinnegatamante.eu/vitadb/#/ )
 
-# Downalod Link
+# Download Link
 Insert the download link of the homebrew
 
 # Release Link
